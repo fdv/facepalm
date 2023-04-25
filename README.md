@@ -6,3 +6,4 @@ So I reproduced my old prompt here, started playing.
 
 And now it looks like I'm doing my own ZSH "framework"
 
+![Prompt Screenshot](preview.png)
